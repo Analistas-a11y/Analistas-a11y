@@ -121,12 +121,19 @@ Somos a equipe de **Estratégia** da **Bookplay** — o time que fica na frontei
 
 <br/>
 
-## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4cc.svg" width="26" align="top"/> Como contribuir com este perfil
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f40d.svg" width="26" align="top"/> A cobrinha devorando nosso contribution graph
 
-1. Faça um fork ou clone deste repositório;
-2. Edite o `README.md` mantendo a organização em seções;
-3. Abra um Pull Request explicando o que mudou;
-4. Marque alguém do time para revisar antes do merge.
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Analistas-a11y/Analistas-a11y/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Analistas-a11y/Analistas-a11y/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Analistas-a11y/Analistas-a11y/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> ⚙️ Essa animação é gerada automaticamente pela GitHub Action em [`.github/workflows/snake.yml`](.github/workflows/snake.yml). Ela só aparece depois do primeiro `push` para o GitHub (a Action roda, gera o SVG e publica na branch `output`) — antes disso a imagem fica quebrada, é esperado.
 
 <br/>
 
