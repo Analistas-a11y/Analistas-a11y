@@ -18,7 +18,7 @@
 
 <br/>
 
-## ♟️ Quem somos
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/265f.svg" width="26" align="top"/> Quem somos
 
 Somos a equipe de **Estratégia** da **Bookplay** — o time que fica na fronteira entre negócio, produto e tecnologia. Aqui não tem torre parada no tabuleiro: analisamos dados, desenhamos a jogada e depois colocamos a mão no código para construir a solução do início ao fim.
 
@@ -29,7 +29,7 @@ Somos a equipe de **Estratégia** da **Bookplay** — o time que fica na frontei
 
 <br/>
 
-## 🧠 O que fazemos
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9e0.svg" width="26" align="top"/> O que fazemos
 
 <div align="center">
 
@@ -43,53 +43,53 @@ Somos a equipe de **Estratégia** da **Bookplay** — o time que fica na frontei
 
 <br/>
 
-## 🚀 Nossas Stacks
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg" width="26" align="top"/> Nossas Stacks
 
 > Trabalhamos com **todas as stacks** — a lista abaixo é o nosso "tabuleiro" completo de tecnologias.
 
-### 🖥️ Front-end
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f5a5.svg" width="22" align="top"/> Front-end
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vue,angular,svelte,nextjs,redux" alt="Front-end stack"/>
 </p>
 
-### 🔧 Back-end
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f527.svg" width="22" align="top"/> Back-end
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,flask,fastapi,java,spring,php,laravel,go,rust,cs,dotnet,cpp,ruby,rails" alt="Back-end stack"/>
 </p>
 
-### 📱 Mobile & Desktop
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4f1.svg" width="22" align="top"/> Mobile & Desktop
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,androidstudio,apple,electron" alt="Mobile e desktop stack"/>
 </p>
 
-### 🗄️ Dados & Cloud
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f5c4.svg" width="22" align="top"/> Dados & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,aws,gcp,azure,docker,kubernetes,nginx,terraform,ansible" alt="Banco de dados e cloud"/>
 </p>
 
-### 🤖 Dados & IA
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f916.svg" width="22" align="top"/> Dados & IA
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,r,matlab,arduino,raspberrypi" alt="Dados e IA"/>
 </p>
 
-### 🛠️ Ferramentas & DevOps
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f6e0.svg" width="22" align="top"/> Ferramentas & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions,vscode,vim,linux,windows,bash,powershell,npm,yarn,pnpm,webpack,vite,grafana,prometheus,postman" alt="Ferramentas e DevOps"/>
 </p>
 
-### 🎨 Design
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3a8.svg" width="22" align="top"/> Design
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps" alt="Design"/>
 </p>
 
-### ✨ Extras
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2728.svg" width="22" align="top"/> Extras
 <p align="center">
   <img src="https://skillicons.dev/icons?i=graphql,apollo,prisma,threejs,unity,unrealengine,solidity,wordpress,vercel,netlify,heroku,cloudflare" alt="Extras"/>
 </p>
 
 <br/>
 
-## 🤝 Metodologias & Colaboração
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f91d.svg" width="26" align="top"/> Metodologias & Colaboração
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scrum-0d9488?style=for-the-badge"/>
@@ -109,7 +109,7 @@ Somos a equipe de **Estratégia** da **Bookplay** — o time que fica na frontei
 
 <br/>
 
-## 📊 Atividade
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4ca.svg" width="26" align="top"/> Atividade
 
 <div align="center">
 
@@ -121,7 +121,7 @@ Somos a equipe de **Estratégia** da **Bookplay** — o time que fica na frontei
 
 <br/>
 
-## 📌 Como contribuir com este perfil
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4cc.svg" width="26" align="top"/> Como contribuir com este perfil
 
 1. Faça um fork ou clone deste repositório;
 2. Edite o `README.md` mantendo a organização em seções;
