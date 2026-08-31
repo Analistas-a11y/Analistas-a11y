@@ -54,7 +54,7 @@ Somos a equipe de **Estratégia** da **Bookplay** — o time que fica na frontei
 
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f527.svg" width="22" align="top"/> Back-end
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,flask,fastapi,java,spring,php,laravel,go,rust,cs,dotnet,cpp,ruby,rails" alt="Back-end stack"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,flask,fastapi,java,spring,php,laravel,go,rust,cs,dotnet,cpp,ruby,rails&perline=9" alt="Back-end stack"/>
 </p>
 
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4f1.svg" width="22" align="top"/> Mobile & Desktop
@@ -74,7 +74,7 @@ Somos a equipe de **Estratégia** da **Bookplay** — o time que fica na frontei
 
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f6e0.svg" width="22" align="top"/> Ferramentas & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions,vscode,vim,linux,windows,bash,powershell,npm,yarn,pnpm,webpack,vite,grafana,prometheus,postman" alt="Ferramentas e DevOps"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions,vscode,vim,linux,windows,bash,powershell,npm,yarn,webpack,vite,grafana,prometheus,postman&perline=9" alt="Ferramentas e DevOps"/>
 </p>
 
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3a8.svg" width="22" align="top"/> Design
