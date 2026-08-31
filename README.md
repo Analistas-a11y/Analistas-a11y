@@ -2,7 +2,7 @@
 
 <img src="./logo.png" width="130" alt="Logo Estratégia Bookplay"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d9488,50:14b8a6,100:2563eb&text=Estratégia%20Bookplay&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Squad%20de%20Estratégia%20%26%20Tecnologia%20da%20Bookplay&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d9488,50:14b8a6,100:2563eb&text=Estratégia%20Bookplay&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Squad%20de%20Estratégia%20e%20Tecnologia%20da%20Bookplay&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Analistas-a11y">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=780&lines=Movidos+a+dados%2C+estrat%C3%A9gia+e+c%C3%B3digo+%E2%99%9F%EF%B8%8F;Full-stack+em+qualquer+stack+que+o+problema+pedir;Do+planejamento+ao+deploy%2C+de+ponta+a+ponta;Bem-vindo(a)+ao+GitHub+da+Estrat%C3%A9gia+Bookplay!"/>
